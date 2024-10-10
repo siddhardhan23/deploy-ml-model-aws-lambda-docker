@@ -1,7 +1,7 @@
 import requests
 
 # API URL
-url = "https://gnrvoxd4pr7f7wre546m3dw2pq0ruwxb.lambda-url.ap-south-1.on.aws/predict"
+url = "<your_lambda_function_url>/predict"
 
 # Data to be sent in the POST request
 data = {
